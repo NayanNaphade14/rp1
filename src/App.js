@@ -10,7 +10,7 @@ function App() {
       </h1>
       <h1>hii</h1>
       {list1.map((item) => (
-        <h1>nayan suhas naphade</h1>
+        <h1>nayan naphade</h1>
       ))}
     </>
   );
